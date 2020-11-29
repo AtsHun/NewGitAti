@@ -1,3 +1,3 @@
 # NewGitAti
 
-some text.
+some text!
